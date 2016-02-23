@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'loopo_stencilregular';
+    src: url('../fonts/loopo_stencil-webfont.eot');
+    src: url('../fonts/loopo_stencil-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/loopo_stencil-webfont.woff2') format('woff2'),
+         url('../fonts/loopo_stencil-webfont.woff') format('woff'),
+         url('../fonts/loopo_stencil-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
